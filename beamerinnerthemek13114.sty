@@ -1,0 +1,50 @@
+
+% Defining title page
+\defbeamertemplate*{title page}{k13114}
+{ 
+  % Title of a presentation
+    {\centering
+    {\fontsize{16pt}{16pt}\technikaregular\usebeamercolor[ctublue]{title}\inserttitle}
+      \par
+    }
+
+    % Subtitle of a presentation
+    \vspace{0.85cm}
+    {\centering
+      {\fontsize{10pt}{10pt}\technikaregular\usebeamercolor[ctugrey]{subtitle}\insertsubtitle}
+      \par
+    }
+
+    % Author of a presentation
+    \vspace{1cm}
+    {\centering
+      {\textbf{\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\insertauthor}}
+      \par
+    }
+  
+  % SupervisorTitle - additional command which is defined in main tex file
+   \vspace{1.5cm}
+    {\centering
+      {\it{\textbf{\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\SupervisorTitle}}}
+      \par
+    }
+    % SupervisorName - additional command which is defined in main tex file
+   \vspace{0.05cm}
+   {\centering
+     {\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\SupervisorName}
+     \par
+   }
+   % OpponentTitle - additional command which is defined in main tex file
+   \vspace{0.15cm}
+    {\centering
+      {\it{\textbf{\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\OpponentTitle}}}
+      \par
+    }
+    % OpponentName - additional command which is defined in main tex file
+   \vspace{0.05cm}
+   {\centering
+     {\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\OpponentName}
+     \par
+   }
+  \vfill
+}

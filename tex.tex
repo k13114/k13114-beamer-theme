@@ -1,0 +1,60 @@
+\documentclass{beamer}
+
+% Setting Presentation Fonts
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,BoldFont={* Bold}] {Times New Roman}
+\setsansfont[Ligatures=TeX,BoldFont={* Bold}]{Times New Roman}
+\setmonofont{Courier}
+
+% New CTU fonts
+\newfontfamily\technikaregular{Technika-Regular}
+% download Technika Italic when available from https://campuscvut.sharepoint.com/sites/inforek-ma
+
+% Defining Title Page Inputs
+
+% Title
+\title{\uppercase{Možnosti využití SoC platformy procesorů pro řízení elektrických pohonů}}
+
+% Subtitle
+\subtitle{\uppercase{{Possibilities of Using SoC Platform Processors for Controlling Electric Drives
+}}} % download italic technika when available
+
+% Author
+\author{Petr Zakopal}
+
+% Supervisor
+\newcommand{\SupervisorTitle}{Vedoucí práce}
+\newcommand{\SupervisorName}{Ing. Jan Bauer, Ph.D.}
+
+% Opponent
+\newcommand{\OpponentTitle}{Oponent práce}
+\newcommand{\OpponentName}{Ing. Tomáš Musil, Ph.D.}
+
+% End of Defining Title Page Inputs
+
+
+% Selecting which theme to use
+\usetheme{k13114}
+
+\begin{document}
+	\frame {
+		\titlepage
+	}
+	\frame {
+		\frametitle{Sample Page 1}
+		\[\frac{-b \pm \sqrt{b^2 - c}}{2a}\]
+	}
+	\frame{
+		\frametitle{Sample Page 2}
+		\framesubtitle{An Example of Lists}
+		\begin{itemize}
+			\item 1
+			\item 2
+			\item 3
+		\end{itemize}
+	}
+	\frame{
+	    \frametitle{Paragraph Content}
+	    This is a paragraph.
+	}
+\end{document}
