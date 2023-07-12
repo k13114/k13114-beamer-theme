@@ -6,6 +6,9 @@
 \setsansfont[Ligatures=TeX,BoldFont={* Bold}]{Times New Roman}
 \setmonofont{Courier}
 
+% For Images
+\usepackage{tikz}
+
 % New CTU fonts
 \newfontfamily\technikaregular{Technika-Regular}
 % download Technika Italic when available from https://campuscvut.sharepoint.com/sites/inforek-ma
@@ -36,10 +39,23 @@
 \newcommand{\FootLineLeft}{\uppercase{Katedra Elektrických Pohonů a Trakce}}
 \newcommand{\FrameTitleRight}{\uppercase{Fakulta Elektrotechnická ČVUT v Praze}}
 
+\newcommand{\cvutlogo}{\includegraphics[scale=0.2]{src/misc/symbol_cvut_plna_verze.pdf}}
+
+
 % Selecting which theme to use
 \usetheme{k13114}
 
 \begin{document}
+
+% \addtobeamertemplate{frametitle}{}{%
+% \begin{tikzpicture}[remember picture,overlay]
+%   \node[anchor=north west,yshift=5pt,xshift=-5pt] at (current page.north west) {\cvutlogo};
+% \end{tikzpicture}}
+
+% \addtobeamertemplate{footline}{}{%
+% \begin{tikzpicture}[remember picture,overlay]
+%   \node[anchor=south east,yshift=-5pt,xshift=3.5pt] at (current page.south east) {\cvutlogo};
+% \end{tikzpicture}}
 
 
 	\frame {

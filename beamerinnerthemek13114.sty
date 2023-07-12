@@ -1,7 +1,17 @@
+% File for defining Inner parts of the theme
 
 % Defining title page
 \defbeamertemplate*{title page}{k13114}
 { 
+  \vspace*{-0.1cm} % Needed to have nicely centered text
+  % Basically adding FrameTitle to Title Page manually 
+  \begin{beamercolorbox}[sep=2pt,wd=\paperwidth,leftskip=1.5cm,rightskip=0cm]{footlinecolor}
+     % Right FrameTitle note (Faculty)
+     \hfill
+     \scriptsize{\technikaregular\fontsize{6pt}{6pt}\FrameTitleRight}
+     \hfill
+ \end{beamercolorbox}%
+ \vspace{0.35cm}
   % Title of a presentation
     {\centering
     {\fontsize{16pt}{16pt}\technikaregular\usebeamercolor[ctublue]{title}\inserttitle}
@@ -9,21 +19,21 @@
     }
 
     % Subtitle of a presentation
-    \vspace{0.85cm}
+    \vspace{0.55cm}
     {\centering
       {\fontsize{10pt}{10pt}\technikaregular\usebeamercolor[ctugrey]{subtitle}\insertsubtitle}
       \par
     }
 
     % Author of a presentation
-    \vspace{1cm}
+    \vspace{0.95cm}
     {\centering
       {\textbf{\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\insertauthor}}
       \par
     }
   
   % SupervisorTitle - additional command which is defined in main tex file
-   \vspace{1.5cm}
+   \vspace{1cm}
     {\centering
       {\it{\textbf{\fontsize{8pt}{8pt}\usebeamercolor[black]{author}\SupervisorTitle}}}
       \par

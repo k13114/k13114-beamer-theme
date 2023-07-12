@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.28)  13 JUL 2023 00:32
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.28)  13 JUL 2023 01:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/petrzakopal/Documents/latex-presentation/tex.tex
@@ -640,6 +640,59 @@ Package fontspec Info: Font family 'Courier(0)' created for font 'Courier'
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box76
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen287
+\pgf@nodesepend=\dimen288
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen289
+\pgffor@skip=\dimen290
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count335
+\pgfplotmarksize=\dimen291
+)
+\tikz@lastx=\dimen292
+\tikz@lasty=\dimen293
+\tikz@lastxsaved=\dimen294
+\tikz@lastysaved=\dimen295
+\tikz@lastmovetox=\dimen296
+\tikz@lastmovetoy=\dimen297
+\tikzleveldistance=\dimen298
+\tikzsiblingdistance=\dimen299
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count336
+\tikznumberofchildren=\count337
+\tikznumberofcurrentchild=\count338
+\tikz@fig@count=\count339
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count340
+\pgfmatrixcurrentcolumn=\count341
+\pgf@matrix@numberofcolumns=\count342
+)
+\tikz@expandcount=\count343
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
 
 Package fontspec Info: Could not resolve font "Technika-Regular/BI" (it
 (fontspec)             probably doesn't exist).
@@ -667,39 +720,39 @@ Package fontspec Info: Font family 'Technika-Regular(0)' created for font
  (./beamerthemek13114.sty (./beamerinnerthemek13114.sty) (./beamerouterthemek13114.sty) (./beamercolorthemek13114.sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 42.
+(hyperref)                removing `\uppercase' on input line 48.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 42.
+(hyperref)                removing `\uppercase' on input line 48.
 
 (./tex.aux)
 \openout1 = tex.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 48.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -737,24 +790,24 @@ LaTeX Font Info:    ... okay on input line 42.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen287
-\scratchbox=\box76
-\nofMPsegments=\count336
-\nofMParguments=\count337
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen288
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count344
+\scratchdimen=\dimen300
+\scratchbox=\box81
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen301
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks49
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 48.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -762,57 +815,57 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count341
+\c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
  (./tex.out) (./tex.out)
 \@outlinefile=\write5
 
 \openout5 = tex.out
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 42.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 48.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 42.
+(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 48.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 42.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 48.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/TimesNewRoman(0)/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 42.
+(Font)                  OT1/cmss/bx/n --> TU/TimesNewRoman(0)/m/n on input line 48.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 42.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/m/it on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 42.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/m/it on input line 48.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/Courier(0)/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> TU/Courier(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/Courier(0)/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> TU/Courier(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  OT1/cmss/b/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/Courier(0)/m/n --> TU/Courier(0)/b/n on input line 42.
+(Font)                  TU/Courier(0)/m/n --> TU/Courier(0)/b/n on input line 48.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -832,72 +885,118 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
-LaTeX Font Info:    Redeclaring math accent \check on input line 42.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 48.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 48.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 48.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 48.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 48.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 48.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 48.
+LaTeX Font Info:    Redeclaring math accent \check on input line 48.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 48.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 48.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 48.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 48.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 42.
+(Font)              `operators' in the math version `normal' on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> TU/TimesNewRoman(0)/m/n on input line 48.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 42.
+(Font)              `operators' in the math version `bold' on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/TimesNewRoman(0)/m/n on input line 42.
+(Font)                  OT1/cmss/b/n --> TU/TimesNewRoman(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 48.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/m/it on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/m/it on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  TU/Courier(0)/m/n --> TU/Courier(0)/m/n on input line 42.
+(Font)                  TU/Courier(0)/m/n --> TU/Courier(0)/m/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/b/it --> TU/TimesNewRoman(0)/b/it on input line 42.
+(Font)                  TU/TimesNewRoman(0)/b/it --> TU/TimesNewRoman(0)/b/it on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 42.
+(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/Courier(0)/b/n --> TU/Courier(0)/b/n on input line 42.
- (./tex.nav) [1
+(Font)                  TU/Courier(0)/b/n --> TU/Courier(0)/b/n on input line 48.
+ (./tex.nav)
+warning  (file src/misc/symbol_cvut_plna_verze.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+<src/misc/symbol_cvut_plna_verze.pdf, id=13, 130.4875pt x 130.4875pt>
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 48.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 63.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
+Overfull \vbox (0.66235pt too high) detected at line 63
+ []
+
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 63.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./src/misc/symbol_cvut_plna_verze.pdf>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2
+)
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 67.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 67.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+ [2
 
-] [3
+]
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 76.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 76.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+ [3
 
-] [4
+]
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 80.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+File: src/misc/symbol_cvut_plna_verze.pdf Graphic file (type pdf)
+<use src/misc/symbol_cvut_plna_verze.pdf>
+Package luatex.def Info: src/misc/symbol_cvut_plna_verze.pdf  used on input line 80.
+(luatex.def)             Requested size: 26.09703pt x 26.09703pt.
+ [4
 
 ]
 \tf@nav=\write6
@@ -915,19 +1014,19 @@ Package rerunfilecheck Info: File `tex.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 23922 strings out of 478092
+ 27138 strings out of 478092
  100000,953878 words of node,token memory allocated
- 2067 words of node memory still in use:
-   22 hlist, 8 vlist, 4 rule, 5 disc, 3 local_par, 48 glue, 32 kern, 11 penalty, 72 glyph, 50 attribute, 61 glue_spec, 50 attribute_list, 4 write, 18 pdf_colorstack nodes
-   avail lists: 2:248,3:81,4:215,5:328,6:31,7:1476,8:11,9:239,10:7,11:90
- 43126 multiletter control sequences out of 65536+600000
+ 2651 words of node memory still in use:
+   42 hlist, 8 vlist, 5 rule, 5 disc, 4 local_par, 70 glue, 34 kern, 12 penalty, 72 glyph, 89 attribute, 61 glue_spec, 89 attribute_list, 5 write, 1 save_pos, 17 pdf_literal, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:354,3:227,4:247,5:429,6:41,7:1848,8:11,9:405,10:7,11:98
+ 46163 multiletter control sequences out of 65536+600000
  82 fonts using 17074727 bytes
- 128i,13n,117p,454b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,17n,117p,454b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></Users/petrzakopal/Library/Fonts/Technika-Regular.ttf></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on tex.pdf (4 pages, 108987 bytes).
+Output written on tex.pdf (4 pages, 117909 bytes).
 
-PDF statistics: 89 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
