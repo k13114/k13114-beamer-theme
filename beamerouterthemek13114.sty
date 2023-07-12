@@ -1,1 +1,54 @@
-% \setbeamertemplate{navigation symbols}{}
+% Navigation symbols
+\setbeamertemplate{navigation symbols}{} % Uncomment to disable navigation symbols
+\setbeamercolor{navigation symbols}{fg=ctublue, bg=ctulightblue} % Setting navigation symbols color
+
+% FrameTitle color
+\setbeamercolor{frametitle}{fg=white,bg=ctublue}
+% FootLine color
+\setbeamercolor{footlinecolor}{fg=white,bg=ctublue}
+
+% FrameTitle font
+\setbeamerfont{frametitle}{series=\technikaregular,parent=structure}
+% FootLine font
+\setbeamerfont{footline}{series=\technikaregular,parent=structure}
+
+
+% Defining new FootLine style
+\defbeamertemplate*{footline}{k13114}
+{   
+    % Color box which contains desired content
+    \begin{beamercolorbox}[sep=3pt,wd=\paperwidth,leftskip=0cm,rightskip=1.5cm]{footlinecolor}
+            % \includegraphics[scale=0.07,height=10pt]{images/image1.png}
+        % Left FootLine note (Department)
+        {
+            \vspace*{0.05cm} % Needed to have nicely centered text
+            {\fontsize{7.5pt}{6pt}\technikaregular\usebeamercolor[white]{author}\FootLineLeft}
+        }
+        % Right FootLine note (Actual frame number / Total frame number)
+        \hfill
+        \scriptsize{\fontsize{6pt}{6pt}\insertframenumber/\inserttotalframenumber}
+        \hfill
+            
+        % \includegraphics[scale=0.25,height=10pt]{images/image2.png}
+    \end{beamercolorbox}%
+}
+
+% Defining new FrameTitle style
+\defbeamertemplate*{frametitle}{k13114}
+{
+    % Deleting blank space before FrameTitle after start of the page
+    \ifbeamercolorempty[bg]{frametitle}{}{\nointerlineskip}%
+    \vspace*{-0.1cm} % Needed to have nicely centered text
+    \begin{beamercolorbox}[sep=2pt,wd=\paperwidth,leftskip=1.5cm,rightskip=0cm]{footlinecolor}
+            % \includegraphics[scale=0.07,height=10pt]{images/image1.png}
+        {
+            
+            {\fontsize{7.5pt}{6pt}\technikaregular\usebeamercolor[white]{author}\insertframetitle}% FrameTitle on the left side
+        }
+        % Right FrameTitle note (Faculty)
+        \hfill
+        \scriptsize{\fontsize{6pt}{6pt}\FrameTitleRight}
+        \hfill
+        % \includegraphics[scale=0.25,height=10pt]{images/image2.png}
+    \end{beamercolorbox}%
+}
