@@ -70,8 +70,12 @@ Basic command for opening `Command palette` on macOS is with `CMD + Shift + P`. 
 
 ## Comments
 
-- Do the files of beamer template and font need to be in a parent folder? Why subfolders are not used.
-  - Yes they need to be in a parent folder. I did not manage to run the compilation successfully, when the files are in subfolders. I have extensively searched the web, but did not find any solution. If you have any, please submit a Pull Request.
+<details>
+<summary>Do the files of beamer template and font need to be in a parent folder? Why subfolders are not used.</summary>
+
+Yes they need to be in a parent folder. I did not manage to run the compilation successfully, when the files are in subfolders. I have extensively searched the web, but did not find any solution. If you have any, please submit a Pull Request.
+
+</details>
 
 # Disclaimer
 
