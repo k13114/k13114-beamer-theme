@@ -9,9 +9,18 @@
 % For Images
 \usepackage{tikz}
 
+%% COLOR DEFINITIONS %%
+\definecolor{ctublue}{HTML}{0065BD} % defining ctu color
+\definecolor{ctugreen}{HTML}{A2AD00}
+\definecolor{ctured}{HTML}{C60C30}
+\definecolor{ctuyellow}{HTML}{F0AB00}
+\definecolor{ctugreenyblue}{HTML}{00B2A9}
+\definecolor{ctulightblue}{HTML}{6AADE4}
+\definecolor{ctuorange}{HTML}{E05206}
+
 % New CTU fonts
-\newfontfamily\technikaregular{Technika-Regular}
-\newfontfamily\technikaitalic{Technika-Italic}
+\newfontfamily\technikaregular{Technika-Regular.ttf}
+\newfontfamily\technikaitalic{Technika-Italic.ttf}
 % Additional Technika Fonts are Available from https://campuscvut.sharepoint.com/sites/inforek-ma (after login)
 
 % Defining Title Page Inputs
@@ -42,6 +51,14 @@
 
 \newcommand{\cvutlogo}{\includegraphics[scale=0.2]{src/misc/symbol_cvut_plna_verze.pdf}}
 
+
+% Defining frame title based on a technika font and color
+\newcommand{\techbluetitle}[1]{
+    \begin{center} 
+            \vspace*{-5cm}
+            {\fontsize{16pt}{16pt}\technikaregular {\color{ctublue}#1}}
+    \end{center} 
+}
 
 % Selecting which theme to use
 \usetheme{k13114}
@@ -88,4 +105,11 @@
 		This is a new paragraph with Lorem Ipsum.
 		Phasellus sem odio, eleifend nec tempus vel, tristique blandit lacus. Donec nec orci accumsan, dignissim purus ut, luctus dui. Praesent elementum elit a enim porttitor, vitae eleifend est imperdiet. Maecenas gravida, nibh luctus porttitor malesuada, lorem nibh ornare felis, quis pulvinar elit lorem id felis. Aliquam nec accumsan quam. Mauris arcu sapien, convallis sit amet velit at, tempor pellentesque nisl. Suspendisse vitae congue quam. Phasellus neque arcu, pretium id magna vel, vehicula malesuada nulla. Nam et purus faucibus, fringilla ligula et, ultricies sem. Sed mollis eros a efficitur suscipit. Vestibulum ut blandit nisl. Morbi molestie, lorem sed iaculis consequat, diam dolor laoreet mi, eu tincidunt odio nisl eget libero.
 	}
+
+    \frame{
+	    \frametitle{Title}
+        \techbluetitle{This is a technika title.}
+
+        This is a new paragraph.
+    }
 \end{document}
