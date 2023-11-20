@@ -53,10 +53,10 @@
 
 
 % Defining frame title based on a technika font and color
-\newcommand{\techbluetitle}[1]{
+\newcommand{\techbluetitle}[2][0]{
     \begin{center} 
-            \vspace*{-5cm}
-            {\fontsize{16pt}{16pt}\technikaregular {\color{ctublue}#1}}
+            \vspace*{#1cm}
+            {\fontsize{16pt}{16pt}\technikaregular {\color{ctublue}#2}}
     \end{center} 
 }
 
@@ -108,7 +108,7 @@
 
     \frame{
 	    \frametitle{Title}
-        \techbluetitle{This is a technika title.}
+        \techbluetitle[-5]{This is a technika title.}
 
         This is a new paragraph.
     }
